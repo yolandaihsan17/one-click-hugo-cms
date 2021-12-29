@@ -1,0 +1,84 @@
+<div class='lx-header-container'>
+  <div class="main-container">
+    <img src='/img/logo-1.png' class="lx-logo" />
+    <div class="lx-header-right  in-desktop">
+      <a href='https://landx.id/#why-landx'>Mengapa Landx</a>
+      <a href='https://landx.id/#ongoing-projects'>Proyek</a>
+      <a href='https://landx.id/#how-it-works'>Cara Kerja</a>
+      <a href='https://landx.id/contact.html'>Kontak</a>
+      <a href=''>Blog</a>
+      <div class="dropdown">
+        Perusahaan
+        <div class="dropdown-content">
+          <div>
+            <a href='https://landx.id/blog/jobs-at-landx/'>Karir</a>
+          </div>
+          <div>
+            <a href='https://landx.id/syarat-dan-ketentuan.html'>Syarat & Ketentuan</a>
+          </div>
+          <div>
+            <a href='https://landx.id/privacy-policy.html'>Kebijakan Privasi</a>
+          </div>
+          <div>
+            <a href='https://landx.id/service-level-agreement.html'>Service Level Agreement</a>
+          </div>
+          <div>
+            <a href='https://landx.id/kebijakan-isms.html'>Kebijakan ISMS</a>
+          </div>
+          <div>
+            <a href='https://landx.id/mitigasi-risiko.html'>Mitigasi Resiko</a>
+          </div>
+          <div>
+            <a href='https://landx.id/blog/faq-landx'>FAQ</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <img src='/img/hamburgerMenu.svg' class="in-mobile menu" onclick="toggleMenu('menudrawer')" />
+
+    <button class="lx-button in-desktop">Pendaftaran Perusahaan</button>
+  </div>
+</div>
+
+<div class="menu-drawer" id="menudrawer">
+  <div class="menu-container">
+    <a href='https://landx.id/#why-landx' class="menu-item">Mengapa Landx</a>
+    <a href='https://landx.id/#ongoing-projects' class="menu-item">Proyek</a>
+    <a href='https://landx.id/#how-it-works' class="menu-item">Cara Kerja</a>
+    <a href='https://landx.id/contact.html' class="menu-item">Kontak</a>
+    <a class="menu-item" onclick="toggleMenu('secondmenu')">Perusahaan</a>
+    <div class="second-menu" id="secondmenu">
+      <div class="second-menu-item">
+        <a href='https://landx.id/blog/jobs-at-landx/'>Karir</a>
+      </div>
+      <div class="second-menu-item">
+        <a href='https://landx.id/syarat-dan-ketentuan.html'>Syarat & Ketentuan</a>
+      </div>
+      <div class="second-menu-item">
+        <a href='https://landx.id/privacy-policy.html'>Kebijakan Privasi</a>
+      </div>
+      <div class="second-menu-item">
+        <a href='https://landx.id/service-level-agreement.html'>Service Level Agreement</a>
+      </div>
+      <div class="second-menu-item">
+        <a href='https://landx.id/kebijakan-isms.html'>Kebijakan ISMS</a>
+      </div>
+      <div class="second-menu-item">
+        <a href='https://landx.id/mitigasi-risiko.html'>Mitigasi Resiko</a>
+      </div>
+      <div class="second-menu-item">
+        <a href='https://landx.id/blog/faq-landx'>FAQ</a>
+      </div>
+    </div>
+
+    <button class="lx-button" style="margin-top: 16px;">Pendaftaran Perusahaan</button>
+  </div>
+</div>
+
+<script>
+  function toggleMenu(id) {
+    var x = document.getElementById(id)
+    x.style.display = x.style.display === 'none' || x.style.display === '' ? 'flex' : 'none'
+  }
+</script>

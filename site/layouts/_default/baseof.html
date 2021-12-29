@@ -3,11 +3,11 @@
   {{ partial "head" . }}
   <body class="sans-serif">
 
-    {{ block "header" . }}{{ partial "nav" . }}{{end}}
+    {{ block "header" . }}{{ partial "landx-header" . }}{{end}}
 
     {{ block "main" . }}{{ end }}
 
-    {{ block "footer" . }}{{ partial "footer" . }}{{end}}
+    {{ block "footer" . }}{{ partial "landx-footer" . }}{{end}}
 
     {{ $script := .Site.Data.webpack.main }}
     {{ with $script.js }}
