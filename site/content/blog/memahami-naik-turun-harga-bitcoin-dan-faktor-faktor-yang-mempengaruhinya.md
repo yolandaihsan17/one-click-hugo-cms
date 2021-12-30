@@ -1,4 +1,5 @@
 ---
+author: map-name-yolanda-avatar-img-dsc09652-jpg
 title: Memahami Naik Turun Harga Bitcoin dan Faktor-faktor yang Mempengaruhinya
 date: 2021-12-30T02:48:05.278Z
 description: Bagi kamu yang mendalami dunia cryptocurrency, harga Bitcoin tentu
