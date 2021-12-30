@@ -71,8 +71,11 @@
 @import "./imports/_buttons";
 @import "./imports/_svg";
 @import "./imports/_cms";
+
 @import "./landx-header.css";
 @import "./landx-footer.css";
+@import './landx-li.css';
+@import './landx-paginator.css';
 
 /* Variables */
 /* Importing here will allow you to override any variables in the modules */
@@ -83,7 +86,6 @@
 /* Debugging */
 @import "./imports/_debug-children";
 @import "./imports/_debug-grid";
-@import './landx-li.css';
 
 a {
   text-decoration: none;

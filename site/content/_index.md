@@ -1,5 +1,5 @@
 ---
-title: "Great coffee with a conscience"
+title: "Investasi dan Miliki Bisnis Menguntungkan Mulai dari 1 Jutaan di LandX"
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
