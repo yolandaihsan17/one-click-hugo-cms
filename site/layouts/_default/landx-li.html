@@ -5,10 +5,10 @@
 	<p class="link b dib black mb0">Read →</p>
 </a> -->
 
-
 <a href="{{ .RelPermalink }}" class="landx-card" style="background-image: url({{.Params.image}});">
   <div class="container">
     <div class="title">{{ .Title }}</div>
     <div class="description">{{ .Description }}</div>
+    <div class="date">{{ .Date.Format "Mon, 2 Jan 2006" }}</div>
   </div>
 </a>

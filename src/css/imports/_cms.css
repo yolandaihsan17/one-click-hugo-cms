@@ -41,7 +41,7 @@
 		color: var(--primary);
 		transition: var(--hover-transition);
 		&:hover {
-			background-color: var(--highlight);
+			/* background-color: var(--highlight); */
 			color: var(--black);
 		}
 	}
@@ -62,7 +62,7 @@
 	& ul {
 		margin-left: 1.33rem;
 		& >li:before {
-			content: '✱';
+			content: '•';
 			left: -1.33rem;
 			position: absolute;
 			color: var(--primary);

@@ -62,12 +62,12 @@
 
 .section-1 a:hover,
 .section-2 a:hover {
-  color: #2dbe60 !important;
+  color: var(--primary) !important;
 }
 
 .section-1 a:hover + .border-bot,
 .section-2 a:hover + .border-bot {
-  background-color: #2dbe60;
+  background-color: var(--primary);
 }
 
 .border-bot {
