@@ -10,7 +10,6 @@ collections: # A list of collections the CMS should be able to edit
     folder: "site/content/blog" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Author", name: "author", widget: "relation", required: true, collection: 'authors', search_fields: ['name'], value_field: 'name', display_fields: ['name']}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Intro Blurb", name: "description", widget: "text"}
