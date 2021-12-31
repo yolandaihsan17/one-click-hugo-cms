@@ -107,6 +107,18 @@
   display: block;
 }
 
+.dropdown .expanded {
+  display: none;
+}
+
+.dropdown:hover .closed {
+  display: none;
+}
+
+.dropdown:hover .expanded {
+  display: inline-block;
+}
+
 .menu {
   width: 32px;
   border-radius: 0px !important;
