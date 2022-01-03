@@ -9,10 +9,12 @@
   <div class="cms mw6">
     <p>{{ .Description }}</p>
     {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
+    <a href="#go-to">Go to</a>
     {{ .Content }}
+    <div id='go-to'>nice</div>
   </div>
 
-  <div class="paginator-container" style="padding-top: 32px; border-top: 1px solid #ccd7df">   
+  <div class="paginator-container" style="padding-top: 32px; border-top: 1px solid #ccd7df">
 
     {{with .Next}}
     <a title='Previous Page' href="{{.Permalink}}">
