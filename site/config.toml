@@ -3,11 +3,9 @@ languageCode = "en-us"
 languageLang = "en"
 title = "Homepage"
 
-[taxonomies]
-  categories = 'category'
-  tags = 'tag'
-
-
+# [taxonomies]
+#   tags = "tag"
+#   categories = "category"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 

@@ -2,10 +2,20 @@
 
 <div class="mw6 center ph3 pv4 post-container">
   <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
+
   <div class="flex justify-between grey-3">
     <p>{{ .Date.Format "Monday, 2 Jan 2006" }}</p>
     <p>Read in {{ .ReadingTime }} minutes</p>
   </div>
+  
+  <div class="terms-container">
+    <div class="chip-container in-content">
+      {{ range .Params.tags }}
+      <a href="/tags/{{. | urlize }}" class="chip">#{{.}}</a>
+      {{ end }}
+    </div>
+  </div>
+
   <div class="cms mw6">
     {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
     <p class="description">{{ .Description }}</p>
@@ -50,26 +60,6 @@
     headings.forEach(item => {
       item.style.scrollMarginTop = '3em'
     })
-
-    fetch('https://api.landx.id/', {
-      method: 'POST',
-      // mode: 'cors',
-      headers: {
-        // "Content-Type": "application/json",
-        // "Accept": "application/json",
-        "Access-Control-Allow-Origin": 'http://localhost:3000',
-        'Access-Control-Allow-Credentials': 'true'
-      },
-      body: JSON.stringify({
-        query: `{
-        currencies {
-          landXProperty {
-            address
-            annualRentYield
-          }
-        }
-      }`})
-    }).then(res => res.json()).then(data => console.log(data))
   });
 </script>
 
