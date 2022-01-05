@@ -1,4 +1,9 @@
 ---
+tags:
+  - okay
+  - nice
+  - mantap
+  - okay
 title: Testing Post with TOC
 date: 2022-01-03T07:23:42.602Z
 description: here i am trying to post with TOC
