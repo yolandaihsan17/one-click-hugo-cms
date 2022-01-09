@@ -1,5 +1,5 @@
 +++
-author = "Abdul Wahhab"
+author = "Abdul Wahhab" 
 categories = ["Equity Crowdfunding", "investasi bisnis", "Bisnis F&B", "bisnis di masa pandemi", "Bisnis Franchise Modal Kecil", "Bisnis Modal Kecil", "investasi dengan modal kecil"]
 date = 2021-09-19T17:57:00Z
 description = "Byurger merupakan salah satu bisnis burger yang berkembang sangat pesat walaupun masa pandemi seperti saat ini | Cara memiliki Byurger modal 1 jutaan"
