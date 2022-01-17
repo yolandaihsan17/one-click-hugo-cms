@@ -1,12 +1,12 @@
 +++
 author = "Gunawan Aldy"
-categories = ["investasi", "properti", "landx"]
+category = ["investasi", "properti", "landx"]
 date = 2019-04-01T03:54:19Z
 description = "Sebelum Anda mulai investasi properti online, pastikan Anda memperhatikan beberapa hal penting seputar melakukan investasi properti online berikut ini."
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/05/7-Hal-yang-Perlu-Diperhatikan-sebelum-Investasi-Properti-secara-Online-1.jpg"
 slug = "7-hal-yang-perlu-diperhatikan-sebelum-investasi-properti-secara-online"
-tags = ["investasi", "properti", "landx"]
+tag = ["investasi", "properti", "landx"]
 title = "7 Hal yang Perlu Diperhatikan sebelum Investasi Properti secara Online"
 
 +++

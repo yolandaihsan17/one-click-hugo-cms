@@ -1,11 +1,11 @@
 +++
 author = "Abdul Wahhab"
-categories = ["Bisnis F&B", "Franchise Makanan", "bisnis masa pandemi", "Cloud Kitchen", "Bisnis Franchise Modal Kecil"]
+category = ["Bisnis F&B", "Franchise Makanan", "bisnis masa pandemi", "Cloud Kitchen", "Bisnis Franchise Modal Kecil"]
 date = 2021-07-27T04:39:09Z
 description = "Bisnis F&B dengan model cloud kitchen merupakan salah satu jenis f&b yang bertahan selama pandemi|Simak cara memiliki cloud kitchen modal kecil "
 draft = false
 slug = "bisnis-cloud-kitchen-di-masa-pandemi"
-tags = ["Bisnis F&B", "Franchise Makanan", "bisnis masa pandemi", "Cloud Kitchen", "Bisnis Franchise Modal Kecil"]
+tag = ["Bisnis F&B", "Franchise Makanan", "bisnis masa pandemi", "Cloud Kitchen", "Bisnis Franchise Modal Kecil"]
 title = "Bisnis di Masa Pandemi - Melihat Bagaimana Strategi Bisnis F&B Cloud Kitchen Bertahan di Masa Pandemi"
 
 +++

@@ -10,7 +10,7 @@
   
   <div class="terms-container">
     <div class="chip-container in-content">
-      {{ range .Params.tags }}
+      {{ range .Params.tag }}
       <a href="/tags/{{. | urlize }}" class="chip">#{{.}}</a>
       {{ end }}
     </div>

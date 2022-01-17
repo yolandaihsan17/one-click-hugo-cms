@@ -1,11 +1,11 @@
 +++
 author = "Abdul Wahhab"
-categories = ["investasi properti", "investasi properti online", "Equity Crowdfunding", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
+category = ["investasi properti", "investasi properti online", "Equity Crowdfunding", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
 date = 2021-06-15T03:24:41Z
 description = "Berbagai strategi memulai bisnis properti modal kecil yang bisa anda coba terapkan apabila anda ingin memulai bisnis dan investasi properti modal kecil"
 draft = false
 slug = "bisnis-properti-modal-kecil"
-tags = ["investasi properti", "investasi properti online", "Equity Crowdfunding", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
+tag = ["investasi properti", "investasi properti online", "Equity Crowdfunding", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
 title = "Simak Berbagai Strategi Memulai Bisnis Properti Modal Kecil Terbaik yang Bisa Anda Terapkan"
 
 +++

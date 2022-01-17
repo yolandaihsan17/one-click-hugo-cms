@@ -1,12 +1,12 @@
 +++
 author = "Abdul Wahhab"
-categories = ["crowdfunding indonesia", "crowdfunding properti", "investasi online", "properti", "Properti online", "Cara Investasi Saham", "investasi saham", "Equity Crowdfunding", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
+category = ["crowdfunding indonesia", "crowdfunding properti", "investasi online", "properti", "Properti online", "Cara Investasi Saham", "investasi saham", "Equity Crowdfunding", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
 date = 2021-03-27T05:48:00Z
 description = "Saham property merupakan salah satu pilihan investasi akan menguntungkan bagi anda dalam jangka panjang | Simak keuntungan dan cara investasi properti"
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/03/8.-saham-property.jpg"
 slug = "apa-itu-saham-property-prospek-keuntungan-dan-cara-investasi-properti"
-tags = ["crowdfunding indonesia", "crowdfunding properti", "investasi online", "properti", "Properti online", "Cara Investasi Saham", "investasi saham", "Equity Crowdfunding", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
+tag = ["crowdfunding indonesia", "crowdfunding properti", "investasi online", "properti", "Properti online", "Cara Investasi Saham", "investasi saham", "Equity Crowdfunding", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
 title = "Apa itu Saham Property, Prospek Keuntungan dan Cara Investasi Properti"
 
 +++

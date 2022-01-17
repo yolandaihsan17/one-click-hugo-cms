@@ -1,12 +1,12 @@
 +++
 author = "Abdul Wahhab" 
-categories = ["Equity Crowdfunding", "investasi bisnis", "Bisnis F&B", "bisnis di masa pandemi", "Bisnis Franchise Modal Kecil", "Bisnis Modal Kecil", "investasi dengan modal kecil"]
+category = ["Equity Crowdfunding", "investasi bisnis", "Bisnis F&B", "bisnis di masa pandemi", "Bisnis Franchise Modal Kecil", "Bisnis Modal Kecil", "investasi dengan modal kecil"]
 date = 2021-09-19T17:57:00Z
 description = "Byurger merupakan salah satu bisnis burger yang berkembang sangat pesat walaupun masa pandemi seperti saat ini | Cara memiliki Byurger modal 1 jutaan"
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/franchise-byurger-dengan-modal-cuma-1-jutaan.png"
 slug = "4-cabang-bisnis-burger-cuma-dengan-modal-1-juta"
-tags = ["Equity Crowdfunding", "investasi bisnis", "Bisnis F&B", "bisnis di masa pandemi", "Bisnis Franchise Modal Kecil", "Bisnis Modal Kecil", "investasi dengan modal kecil"]
+tag = ["Equity Crowdfunding", "investasi bisnis", "Bisnis F&B", "bisnis di masa pandemi", "Bisnis Franchise Modal Kecil", "Bisnis Modal Kecil", "investasi dengan modal kecil"]
 title = "Franchise Burger: Melihat Potensi Byurger, Burger Kekinian yang Tetap Berkembang Pesat Selama Pandemi"
 
 +++
